@@ -2,7 +2,8 @@
 - 👀 I’m interested in java & javascript
 - 🌱 I’m currently learning agile, java and javascript
 - 📫 How to reach me https://www.linkedin.com/in/odanilosalgado/
-- 👨‍👧👩‍👦‍👦 i have a beautiful family
+- 👨‍👧👩‍👦‍👦 I have a beautiful family - 3 kids and a wife! 
+- 🤝 Pronous (ele/dele)
 <div>
   <a href="https://github.com/odanilosalgado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odanilosalgado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
