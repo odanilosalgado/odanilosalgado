@@ -1,7 +1,6 @@
 ### - 👋 Hi, I’m @odanilosalgado
 - 👀 I’m interested in java & javascript
 - 🌱 I’m currently learning agile, java and javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/odanilosalgado/
 
 <div>
